@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rmi-quickstart">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/rmi_quickstart_jar/rmi-quickstart.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
